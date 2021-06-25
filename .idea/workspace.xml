@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e17c7beb-794e-46a5-a95c-bb3459b43e65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/globalutils/db_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globalutils/path_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globalutils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/globalutils/__init__.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globalutils/data_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#150#440#0" />
+                <element signature="e#150#305#1" />
+                <element signature="e#371#426#0" />
+                <element signature="e#479#718#0" />
+                <element signature="e#479#575#1" />
+                <element signature="e#755#991#0" />
+                <element signature="e#755#847#1" />
+                <element signature="e#1029#1629#0" />
+                <element signature="e#1029#1177#1" />
+                <element signature="e#1308#1360#0" />
+                <element signature="e#1379#1465#0" />
+                <element signature="e#1496#1580#0" />
+                <element signature="e#1676#2151#0" />
+                <element signature="e#1676#1851#1" />
+                <element signature="e#1919#1977#0" />
+                <element signature="e#2191#2554#0" />
+                <element signature="e#2191#2310#1" />
+                <element signature="e#2328#2412#0" />
+                <element signature="e#2448#2534#0" />
+                <element signature="e#2607#2847#0" />
+                <element signature="e#2607#2725#1" />
+                <element signature="e#2881#4526#0" />
+                <element signature="e#2881#2997#1" />
+                <element signature="e#3084#3455#0" />
+                <element signature="e#3084#3230#1" />
+                <element signature="e#3481#4506#0" />
+                <element signature="e#4578#6527#0" />
+                <element signature="e#4578#4771#1" />
+                <element signature="e#4818#5175#0" />
+                <element signature="e#4818#4939#1" />
+                <element signature="e#5001#5154#0" />
+                <element signature="e#5222#5302#0" />
+                <element signature="e#5834#6153#0" />
+                <element signature="e#5954#5994#0" />
+                <element signature="e#6254#6422#0" />
+                <element signature="e#6574#7139#0" />
+                <element signature="e#6574#6679#1" />
+                <element signature="e#6773#6936#0" />
+                <element signature="e#6812#6936#0" />
+                <element signature="e#6855#6936#0" />
+                <element signature="e#6974#7122#0" />
+                <element signature="e#7007#7122#0" />
+                <element signature="e#7041#7122#0" />
+                <element signature="e#7183#7510#0" />
+                <element signature="e#7183#7313#1" />
+                <element signature="e#7567#8114#0" />
+                <element signature="e#7567#7716#1" />
+                <element signature="e#7768#7949#0" />
+                <element signature="e#7968#8096#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globalutils/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/globalutils/db_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globalutils/path_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/globalutils/db_util.py" />
+        <option value="$PROJECT_DIR$/globalutils/path_util.py" />
+        <option value="$PROJECT_DIR$/globalutils/__init__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="1035" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="globalutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="globalutils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="globalutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="globalutils" type="462c0819:PsiDirectoryNode" />
+              <item name="globalutils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e17c7beb-794e-46a5-a95c-bb3459b43e65" name="Default Changelist" comment="" />
+      <created>1624595350700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624595350700</updated>
+      <workItem from="1624595352820" duration="360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="360000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2191689" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/globalutils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globalutils/path_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globalutils/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globalutils/data_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#150#440#0" />
+            <element signature="e#150#305#1" />
+            <element signature="e#371#426#0" />
+            <element signature="e#479#718#0" />
+            <element signature="e#479#575#1" />
+            <element signature="e#755#991#0" />
+            <element signature="e#755#847#1" />
+            <element signature="e#1029#1629#0" />
+            <element signature="e#1029#1177#1" />
+            <element signature="e#1308#1360#0" />
+            <element signature="e#1379#1465#0" />
+            <element signature="e#1496#1580#0" />
+            <element signature="e#1676#2151#0" />
+            <element signature="e#1676#1851#1" />
+            <element signature="e#1919#1977#0" />
+            <element signature="e#2191#2554#0" />
+            <element signature="e#2191#2310#1" />
+            <element signature="e#2328#2412#0" />
+            <element signature="e#2448#2534#0" />
+            <element signature="e#2607#2847#0" />
+            <element signature="e#2607#2725#1" />
+            <element signature="e#2881#4526#0" />
+            <element signature="e#2881#2997#1" />
+            <element signature="e#3084#3455#0" />
+            <element signature="e#3084#3230#1" />
+            <element signature="e#3481#4506#0" />
+            <element signature="e#4578#6527#0" />
+            <element signature="e#4578#4771#1" />
+            <element signature="e#4818#5175#0" />
+            <element signature="e#4818#4939#1" />
+            <element signature="e#5001#5154#0" />
+            <element signature="e#5222#5302#0" />
+            <element signature="e#5834#6153#0" />
+            <element signature="e#5954#5994#0" />
+            <element signature="e#6254#6422#0" />
+            <element signature="e#6574#7139#0" />
+            <element signature="e#6574#6679#1" />
+            <element signature="e#6773#6936#0" />
+            <element signature="e#6812#6936#0" />
+            <element signature="e#6855#6936#0" />
+            <element signature="e#6974#7122#0" />
+            <element signature="e#7007#7122#0" />
+            <element signature="e#7041#7122#0" />
+            <element signature="e#7183#7510#0" />
+            <element signature="e#7183#7313#1" />
+            <element signature="e#7567#8114#0" />
+            <element signature="e#7567#7716#1" />
+            <element signature="e#7768#7949#0" />
+            <element signature="e#7968#8096#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globalutils/db_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
