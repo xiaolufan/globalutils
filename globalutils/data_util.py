@@ -5,6 +5,7 @@
 import os
 import re
 import json
+from globalutils.logger import logger
 
 
 def list_find(list1, list2):
@@ -61,7 +62,7 @@ def read_json(file_path: str):
     """
     # 判断文件是否为.json文件
     if not os.path.exists(file_path) or os.path.isdir(file_path) or not file_path.endswith(".json"):
-        print(f"{file_path} 文件错误！")
+        logger.info(f"{file_path} 文件错误！")
         raise ValueError
 
     try:
@@ -86,7 +87,7 @@ def save_json(content, file_path: str):
     """
     # 判断是否保存为.json
     if not file_path.endswith(".json"):
-        print(f"{file_path} 需保存为.json文件")
+        logger.info(f"{file_path} 需保存为.json文件")
         raise ValueError
 
     # 将列表或者字典处理成json字符串
