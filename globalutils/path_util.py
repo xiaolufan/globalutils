@@ -23,3 +23,4 @@ def joinPath(left_path:str, right_path:str)->str:
 
 if __name__ == "__main__":
     pass
+    a = "0"

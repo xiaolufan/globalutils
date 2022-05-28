@@ -101,4 +101,4 @@ if __name__ == "__main__":
     # LOG1.error("LOG1 这是一个 error 级别的问题！")
     # LOG1.warning("LOG1 这是一个 warning 级别的问题！")
     #
-    # LOG.info("上个LOG：这是一个 info 级别的问题！")
+    # LOG.info("上个LOG：这是一个 info 级别的问题！verify merge")
