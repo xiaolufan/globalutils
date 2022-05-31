@@ -8,6 +8,8 @@ import json
 from globalutils.logger import logger
 
 
+# 验证pr
+
 def list_find(list1, list2):
     """
     在序列list1中寻找子串list2,如果找到，返回第一个下标；
